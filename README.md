@@ -6,9 +6,8 @@
 
 
 <p align="center">
-  <img alt="Biscoito" src="https://ik.imagekit.io/aowlcgixdo/quebrarBiscoito_Tgx3e1BzF.png" width="300">
+  <img alt="Biscoito" src="https://ik.imagekit.io/aowlcgixdo/relogioAnalogicoJS.png?updatedAt=1627053927785" width="300">
   
-  <img alt="Biscoito" src="https://ik.imagekit.io/aowlcgixdo/biscoitQuebrado_VsvY1loic.png" width="300">
 </p>
 
 ## 🚀 Tecnologias
