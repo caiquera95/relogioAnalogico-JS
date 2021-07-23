@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  <img alt="Biscoito" src="https://ik.imagekit.io/aowlcgixdo/relogioAnalogicoJS.png?updatedAt=1627053927785" width="300" heigth="400">
+  <img alt="Biscoito" src="https://ik.imagekit.io/aowlcgixdo/relogioAnalogicoJS.png?updatedAt=1627053927785" width="500" heigth="400">
   
 </p>
 
